@@ -1,0 +1,1 @@
+'tmp' directory is used by the scripted solution during execution.
